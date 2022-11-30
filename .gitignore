@@ -1,0 +1,13 @@
+# IDE #
+################
+.idea/
+__pychache__
+.pyc
+*.pth
+.experiment/
+*.jpg
+*.zip
+*.csv
+
+
+
